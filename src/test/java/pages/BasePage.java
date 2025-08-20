@@ -10,7 +10,10 @@ abstract class BasePage{
     protected WebDriverWait wait;
     protected WebDriver driver;
 
-
+    //com
+    //x
+    //y
+    //z
      BasePage(){
          driver = Browser.getDriver();
          wait = new WebDriverWait(driver,60);
